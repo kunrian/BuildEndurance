@@ -1,0 +1,10 @@
+{
+    "Name": "asdasd",
+    "Author": "asdasd",
+    "Version": "1.0.0",
+    "Description": "AI test lol",
+    "UniqueID": "mya.buildendurance",
+    "EntryDll": "BuildEndurance.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
