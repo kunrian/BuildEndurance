@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Version>1.9.0</Version>
+    <TargetFramework>net6.0</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.3.2" />
+  </ItemGroup>
+
+  <!-- <Import Project="..\common.targets" /> -->
+</Project>

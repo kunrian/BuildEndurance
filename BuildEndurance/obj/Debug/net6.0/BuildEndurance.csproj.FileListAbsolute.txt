@@ -1,0 +1,8 @@
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\bin\Debug\net6.0\BuildEndurance.deps.json
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\bin\Debug\net6.0\BuildEndurance.dll
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\obj\Debug\net6.0\BuildEndurance.csproj.AssemblyReference.cache
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\obj\Debug\net6.0\BuildEndurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\obj\Debug\net6.0\BuildEndurance.AssemblyInfoInputs.cache
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\obj\Debug\net6.0\BuildEndurance.AssemblyInfo.cs
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\obj\Debug\net6.0\BuildEndurance.csproj.CoreCompileInputs.cache
+C:\Users\Chiseled\source\repos\BuildEndurance\BuildEndurance\obj\Debug\net6.0\BuildEndurance.dll
